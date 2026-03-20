@@ -15,6 +15,7 @@ lap
 # motmetrics # now we use the local and customized version instead
 filterpy
 h5py
+ultralytics
 
 # verified versions
 onnx==1.8.1
